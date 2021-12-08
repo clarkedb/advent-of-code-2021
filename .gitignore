@@ -1,0 +1,12 @@
+# IDE files
+.vscode/
+
+# python temp files
+__pycache__/
+
+# d-lang linking files
+*.o
+
+# scala temp files
+*.class
+*.tasty
