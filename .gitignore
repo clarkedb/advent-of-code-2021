@@ -10,3 +10,6 @@ __pycache__/
 # scala temp files
 *.class
 *.tasty
+
+# rust temp files
+target/
